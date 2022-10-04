@@ -2,20 +2,13 @@
 
 Estou cursando Engenharia de Computação pelo CEFET/RJ e o curso de Desenvolvedor FullStack do Serratec (Parque Tecnológico da Região Serrana)
 
-&nbsp;
-
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/mateus-tavares-a819811b0/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/eutavaresmateus/)
 
-&nbsp;
-
 ![Tavares GitHub stats](https://github-readme-stats.vercel.app/api?username=tavaresmateus&show_icons=true&theme=dracula)
 
-
-
-&nbsp;
 ## Principais tecnologias 
 
 <div style="display: inline-block"><br>
