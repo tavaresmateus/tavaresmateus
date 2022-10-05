@@ -9,7 +9,7 @@ Estou cursando Engenharia de Computação pelo CEFET/RJ e o curso de Desenvolved
 
 ![Tavares GitHub stats](https://github-readme-stats.vercel.app/api?username=tavaresmateus&show_icons=true&theme=dracula)
 
-## Aprendendo as seguintes tecnologias 
+## Tecnologias👨🏾‍💻
 
 <div style="display: inline-block"><br>
     <img align="center"  alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -20,5 +20,9 @@ Estou cursando Engenharia de Computação pelo CEFET/RJ e o curso de Desenvolved
 </div>
 
 &nbsp;
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavaresmateus&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### Bora codar e construir um hoje e um um amanhã melhor😉
