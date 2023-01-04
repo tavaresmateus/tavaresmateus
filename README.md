@@ -5,7 +5,7 @@ Estou cursando Engenharia de Computação pelo CEFET/RJ e o curso de Desenvolved
  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/mateus-tavares-a819811b0/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/eutavaresmateus/)
+)](https://www.instagram.com/<useraqui>/)
 
 
 ![Tavares GitHub stats](https://github-readme-stats.vercel.app/api?username=tavaresmateus&show_icons=true&theme=dracula)
