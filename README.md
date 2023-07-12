@@ -1,7 +1,6 @@
 ## Olá, eu sou o Mateus 👋
 
-Estou cursando Engenharia de Computação pelo CEFET/RJ e realizei o curso de Desenvolvedor FullStack do Serratec (Parque Tecnológico da Região Serrana)
-
+Sou graduando em Engenharia de Computação pelo CEFET/RJ e desenvolvedor FullStack nas tecnologias ReactJS e JavaSpringBoot
  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/mateus-tavares-a819811b0/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
