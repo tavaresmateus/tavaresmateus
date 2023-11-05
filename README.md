@@ -1,6 +1,6 @@
 ## Olá, eu sou o Mateus 👋
 
-Sou graduando em Engenharia de Computação pelo CEFET/RJ e desenvolvedor FullStack nas tecnologias ReactJS e JavaSpringBoot
+Atualmente focado em Java SpringBoot e React JS
 
  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/mateus-tavares-a819811b0/)
